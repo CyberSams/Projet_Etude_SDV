@@ -1,0 +1,7 @@
+colorama
+Faker
+requests
+requests-html
+BeautifulSoup4
+google
+python-nmap
